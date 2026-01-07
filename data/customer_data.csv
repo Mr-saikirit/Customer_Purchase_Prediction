@@ -1,0 +1,11 @@
+Age,Gender,Annual_Income,Spending_Score,Previous_Purchase,Engagement_Score,Purchased
+25,Male,40000,60,Yes,7,1
+30,Female,52000,80,Yes,8,1
+22,Male,30000,40,No,4,0
+35,Female,65000,90,Yes,9,1
+40,Male,70000,20,No,3,0
+28,Female,48000,65,Yes,6,1
+50,Male,85000,30,No,2,0
+45,Female,78000,75,Yes,7,1
+33,Male,56000,50,No,5,0
+27,Female,45000,70,Yes,8,1
